@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/newsFragment">
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.practice.cybervigilance.homepage.news.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_contributeFragment"
+            app:destination="@id/contributeFragment" />
+        <action
+            android:id="@+id/action_newsFragment_to_lawsAndTipsFragment"
+            app:destination="@id/lawsAndTipsFragment" />
+        <action
+            android:id="@+id/action_newsFragment_to_passwordManagerFragment2"
+            app:destination="@id/passwordManagerFragment2" />
+        <action
+            android:id="@+id/action_newsFragment_to_vpnFragment2"
+            app:destination="@id/vpnFragment2" />
+        <action
+            android:id="@+id/action_newsFragment_to_signOutFragment"
+            app:destination="@id/signOutFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/contributeFragment"
+        android:name="com.practice.cybervigilance.homepage.contribute.ContributeFragment"
+        android:label="fragment_contribute"
+        tools:layout="@layout/fragment_contribute" />
+    <fragment
+        android:id="@+id/lawsAndTipsFragment"
+        android:name="com.practice.cybervigilance.homepage.laws.LawsAndTipsFragment"
+        android:label="fragment_laws_and_tips"
+        tools:layout="@layout/fragment_laws_and_tips" />
+    <fragment
+        android:id="@+id/vpnFragment2"
+        android:name="com.practice.cybervigilance.homepage.vpn.VpnFragment"
+        android:label="fragment_vpn"
+        tools:layout="@layout/fragment_vpn" />
+    <fragment
+        android:id="@+id/passwordManagerFragment2"
+        android:name="com.practice.cybervigilance.homepage.passwordmanager.PasswordManagerFragment"
+        android:label="fragment_password_manager"
+        tools:layout="@layout/fragment_password_manager" />
+    <fragment
+        android:id="@+id/signOutFragment"
+        android:name="com.practice.cybervigilance.homepage.signout.SignOutFragment"
+        android:label="SignOutFragment" />
+</navigation>

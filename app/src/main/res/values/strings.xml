@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Cyber vigilance</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="successfully_logged_in">Successfully logged in</string>
+    <string name="login_failed">Login failed</string>
+    <string name="you_are_already_logged_in_with_a_different_account">You already logged in with a different account</string>
+    <string name="title_activity_home_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="news">News</string>
+    <string name="contribute">Contribute</string>
+    <string name="tips_and_laws">Tips and laws</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_manager">Password Manager</string>
+    <string name="vpn">VPN</string>
+    <string name="loadingDuarationInMillis">5000</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="unable_to_load">Unable to load</string>
+    <string name="title">Title</string>
+    <string name="your_content">Your content</string>
+    <string name="you_can_write_your_story_here_so_that_other_people_might_know_it_and_can_be_saved_from_being_a_victim_of_cyber_crime_read_the_content_thoroughly_before_submitting_once_submitted_we_ll_verify_the_content_make_it_public_within_24_hours_and_will_let_you_know_by_email_nfor_each_view_of_your_article_you_ll_get_50p">You can write your story here so that other people might know it and can be saved from being a victim of cyber crime. Read the content thoroughly before submitting. Once submitted, we\'ll verify the content, make it public within 24 hours and will let you know by email.\nFor each view of your article you\'ll get 50p</string>
+    <string name="cyber_laws">Cyber Laws</string>
+    <string name="best_practices">Best practices</string>
+    <string name="laws">Laws</string>
+    <string name="report_a_crime">Report a crime</string>
+    <string name="sign_out_delete">Sign Out | Delete</string>
+    <string name="submit">Submit</string>
+    <string name="signout">SignOut</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to SignOut</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete</string>
+    <string name="enter_password">Enter password</string>
+    <string name="create_password">Create Password</string>
+    <string name="password_too_short">Password too short</string>
+    <string name="password_dont_match">Passwords don\'t match</string>
+    <string name="title_activity_passwords">PasswordsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="your_passwords">Your Passwords</string>
+    <string name="laws_tips">Laws | Tips</string>
+</resources>

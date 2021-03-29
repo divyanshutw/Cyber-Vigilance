@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667913698668",
+    "project_id": "cyber-vigilance-e82d6",
+    "storage_bucket": "cyber-vigilance-e82d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667913698668:android:4e29c3215d36747c814749",
+        "android_client_info": {
+          "package_name": "com.practice.cybervigilance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667913698668-bgcfusfq017il825vu273pv6hv0dllhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-VEFUCKucmKmLX1yRXk6a4mUOe1Zxqh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667913698668-bgcfusfq017il825vu273pv6hv0dllhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

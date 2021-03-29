@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/newsFragment"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="@string/news" />
+
+        <item
+            android:id="@+id/contributeFragment"
+            android:icon="@drawable/ic_baseline_add_circle_outline_24"
+            android:title="@string/contribute" />
+
+        <item
+            android:id="@+id/lawsAndTipsFragment"
+            android:icon="@drawable/ic_baseline_library_books_24"
+            android:title="@string/tips_and_laws" />
+
+        <item
+            android:id="@+id/passwordManagerFragment2"
+            android:icon="@drawable/ic_baseline_security_24"
+            android:title="@string/password_manager" />
+
+        <item
+            android:id="@+id/vpnFragment2"
+            android:icon="@drawable/ic_baseline_local_police_24"
+            android:title="@string/report_a_crime" />
+
+        <item
+            android:id="@+id/delete"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="@string/sign_out_delete" />
+
+    </group>
+</menu>
