@@ -8,7 +8,7 @@
 
 ## **How will cyber vigilance app help in solving these problems?**
 
-Loopholes will exist in any kind of system. We can minimize them but their will be loopholes in every system. For example, the concept of One Time Password was brought to tackle cyber frauds but still people found loopholes in it too. 
+Loopholes will exist in any kind of system. We can minimize them but there will be loopholes in every system. For example, the concept of One Time Password was brought to tackle cyber frauds but still people found loopholes in it too. 
 Not only this, there are other things like cyber bullying, how will we tackle this?
 Our approach in solving the given problem statement is based on an old idea: **Prevention is better than cure.**
 
